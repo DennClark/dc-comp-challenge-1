@@ -10,8 +10,4 @@ The comp-challenge is about implementing HTML and CSS together to create a stati
 
 ---
 
-## Original Comp.
 
-The first step in the development process was to have the poster load with a randomly selected image, title, and quote. This was done by utilizing an event listener with the load event. Once the load event was triggered, the assignRandomPoster function was triggered. This function reassigned the image source, title text, and quote text with a random element pulled from their respective arrays.
-
-![](OG-comp.png)
